@@ -3,7 +3,7 @@ function shape(canvas,copy,cobj) {
     this.cobj=cobj;
     this.copy=copy;
     this.type="line";
-    this.style="fill";
+    this.style="stroke";
     this.fillstyle="blue";
     this.strokestyle="blue";
     this.historys=[];
